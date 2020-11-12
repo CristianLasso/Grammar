@@ -1,0 +1,10 @@
+C:\Users\crisc\source\repos\Gramatica\Gramatica\bin\Debug\Gramatica.exe.config
+C:\Users\crisc\source\repos\Gramatica\Gramatica\bin\Debug\Gramatica.exe
+C:\Users\crisc\source\repos\Gramatica\Gramatica\bin\Debug\Gramatica.pdb
+C:\Users\crisc\source\repos\Gramatica\Gramatica\obj\Debug\Gramatica.csprojAssemblyReference.cache
+C:\Users\crisc\source\repos\Gramatica\Gramatica\obj\Debug\Gramatica.Gramatica.resources
+C:\Users\crisc\source\repos\Gramatica\Gramatica\obj\Debug\Gramatica.Properties.Resources.resources
+C:\Users\crisc\source\repos\Gramatica\Gramatica\obj\Debug\Gramatica.csproj.GenerateResource.cache
+C:\Users\crisc\source\repos\Gramatica\Gramatica\obj\Debug\Gramatica.csproj.CoreCompileInputs.cache
+C:\Users\crisc\source\repos\Gramatica\Gramatica\obj\Debug\Gramatica.exe
+C:\Users\crisc\source\repos\Gramatica\Gramatica\obj\Debug\Gramatica.pdb
